@@ -47,7 +47,7 @@ Struktur ini memudahkan scaling dan penambahan fitur baru.
 
 ---
 
-# 🏗️ Arsitektur Proyek
+#  Arsitektur Proyek
 
 ```
 warehouse_system/
@@ -100,7 +100,7 @@ python main.py <command> <subcommand>
 
 ---
 
-# 🔧 Daftar Command Penting
+#  Daftar Command Penting
 
 ## **Item**
 
@@ -166,7 +166,7 @@ python main.py stock by-item <item_id>
 
 ---
 
-# 🌟 Keunggulan Proyek Ini (Sangat Cocok untuk Pemula)
+#  Keunggulan Proyek Ini (Sangat Cocok untuk Pemula)
 
 ### ✔ **1. Menerapkan konsep sistem gudang nyata**
 
