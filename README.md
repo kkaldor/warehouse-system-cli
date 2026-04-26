@@ -13,7 +13,7 @@ Tujuan utama proyek ini adalah memberikan **simulasi WMS tingkat menengah**, yan
 
 ---
 
-# 🚀 Fitur Utama
+#  Fitur Utama
 
 ### **1. Item Management**
 
@@ -90,7 +90,7 @@ Arsitektur ini meniru pola software enterprise agar pemula dapat belajar:
 
 ---
 
-# 📘 Cara Menjalankan Sistem
+#  Cara Menjalankan Sistem
 
 ### **1. Jalankan CLI**
 
@@ -128,11 +128,11 @@ python main.py stock by-location <location_id>
 ```
 
 Untuk dokumentasi lengkap, lihat:
-📄 **COMMANDS.md**
+ **COMMANDS.md**
 
 ---
 
-# 📚 Contoh Workflow Gudang (Sederhana)
+#  Contoh Workflow Gudang (Sederhana)
 
 ### **1. Tambah item master**
 
@@ -236,7 +236,7 @@ Perekrut sangat menyukai proyek yang menggabungkan bisnis & engineering.
 
 ---
 
-# 🚀 Rencana Pengembangan (Roadmap)
+#  Rencana Pengembangan (Roadmap)
 
 * Receiving module
 * Putaway optimizer
@@ -247,32 +247,3 @@ Perekrut sangat menyukai proyek yang menggabungkan bisnis & engineering.
 * Dashboard analitik
 
 ---
-
-# 🤝 Kontribusi
-
-Pull request sangat diterima.
-Silakan membuat issue untuk:
-
-* bug report
-* saran fitur
-* peningkatan dokumentasi
-
----
-
-# 📄 Lisensi
-
-Proyek ini dapat menggunakan lisensi MIT, BSD, atau lisensi lain sesuai preferensi Anda.
-
----
-
-Jika Anda ingin, saya bisa juga membuatkan:
-
-### ✔ Versi README yang lebih visual
-
-### ✔ README dengan badge (Python version, license, stars, workflow)
-
-### ✔ README dengan diagram arsitektur (Mermaid)
-
-### ✔ README versi bahasa Inggris untuk audience internasional
-
-Cukup beri instruksi.
